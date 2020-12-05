@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import time
 from bottle import request, route, run, view
 
+
 # достает html код по указанной ссылке
 
 local_proc = 0
